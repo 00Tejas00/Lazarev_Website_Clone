@@ -290,7 +290,7 @@ html,body{
     height: 100vh;
     width: 100%;
     background-color: #111;
-    background-image: url(bc91d194-ce1d-4b45-ad02-1e658f237538.webp);
+    background-image: url(Media/Reel_IMG.webp);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -382,7 +382,7 @@ html,body{
     color: #111;
 }
 #right4 h5{
-    color: rgba(177, 172, 172, 0.785);
+    color: rgba(137, 134, 134, 0.785);
     margin-bottom: 5vh;
     font-size: 14px;
     font-weight: 500;
@@ -392,7 +392,7 @@ html,body{
     color: #111111d1;
     /* font-size: ; */
     font-weight: 200;
-    margin-bottom: 10vh;
+    margin-bottom:10vh;
 }
 
 
